@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 1 FHD
+http://het105a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=shWE6EsU2ftObGPG_m4sWg&e=1746593502
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 1 HD
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=hY6lFWVqs01l25PnZ8Oe5g&e=1746694034
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 2 FHD
+http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8?t=dieEsCc045nKz4o-q0ad8Q&e=1746647350
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 2 HD
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8?t=dSkWDwmedPFMXpeUPlbssA&e=1746690538
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 3 FHD
+http://het117a.4rouwanda-shop.store/live/645587700/index.m3u8?t=GiKZ9WPY0TC1NXTpMxdU0Q&e=1746594329
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 3 HD
+http://het105a.4rouwanda-shop.store/live/645587700/index.m3u8?t=TFp8X6N2osKzUDGdNu8i8g&e=1746696608
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 4 FHD
+http://het108a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=oBUNeaowQE7qwr6tuLVORw&e=1746694801
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 4 HD
+http://het113a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=9-KEqe-vrK0X2FiG6npPsw&e=1746696675
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 5 FHD
+http://het111a.4rouwanda-shop.store/live/610303030/index.m3u8?t=9yCS0n36BVUou9bkumx3MA&e=1746594412
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 5 HD
+http://het116a.4rouwanda-shop.store/live/610303030/index.m3u8?t=nRmQGBbF7BPTMcslPC8-tg&e=1746696995
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 6 FHD
+http://het105a.4rouwanda-shop.store/live/1515000000/index.m3u8?t=fSUxdUpuIGWjVm4_KT0ZkQ&e=1746595779
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png?ver=12-01-2025" group-title="Bein Sports",Bein Sports 6 HD
+http://het120a.4rouwanda-shop.store/live/1515000000/index.m3u8?t=D-6Qfcx-joQNm2IilZzBXg&e=1746695319
